@@ -11,6 +11,6 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def activity
-  puts "Do A Barrel Roll!"
+def any_phrase
+  puts catch phrase "Do A Barrel Roll!"
 end
