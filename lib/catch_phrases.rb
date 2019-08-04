@@ -12,5 +12,5 @@ def link
 end
 
 def yabba dabba
-  puts catch phrase "Do A Barrel Roll!"
+  puts "Do A Barrel Roll!"
 end
